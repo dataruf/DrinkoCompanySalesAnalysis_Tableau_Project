@@ -1,5 +1,4 @@
-<img width="2048" height="512" alt="tableau ucun" src="https://github.com/user-attachments/assets/705a1897-64e4-4ca0-88b3-6dd730c52f9a" />
-
+![readmetab](https://github.com/user-attachments/assets/7da17404-add7-48b1-9a4a-a2973e7e9815)
 online check on Tableu Publick : https://public.tableau.com/app/profile/rufat.ismayilov/viz/DrinkoCompanySalesanalysisProject/Dashboard
 ## 📊 Project Overview
 
